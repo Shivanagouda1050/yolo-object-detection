@@ -1,0 +1,1 @@
+Developed a custom object detection model using YOLO v5 for 20 classes, including data preparation, training, and evaluation. Utilized Python with pandas for data handling and OpenCV for image processing
